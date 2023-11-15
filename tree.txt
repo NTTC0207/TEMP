@@ -1,36 +1,49 @@
 import React, { useState } from 'react';
-import { useSpring, animated } from 'react-spring';
 
 const TreeView = ({ citation }) => {
-  const [expanded, setExpanded] = useState(false);
+  const [expanded, setExpanded] = useState([]);
 
-  const springProps = useSpring({
-    height: expanded ? 'auto' : 0,
-    opacity: expanded ? 1 : 0,
-  });
-
-  const handleToggle = () => {
-    setExpanded(!expanded);
+  const toggleParagraph = (index) => {
+    setExpanded((prevExpanded) => {
+      const newExpanded = [...prevExpanded];
+      newExpanded[index] = !newExpanded[index];
+      return newExpanded;
+    });
   };
 
   return (
     <div>
-      <div onClick={handleToggle} style={{ cursor: 'pointer' }}>
-        {expanded ? 'Hide' : 'Show more'} items
-      </div>
-      <animated.ul style={springProps}>
-        {citation.items.map((item, index) => (
-          <li key={index}>
-            <strong>{item.title}</strong>
-            <animated.p style={springProps}>{item.paragraph}</animated.p>
-            <a href={item.url} target="_blank" rel="noopener noreferrer">
-              {item.url}
-            </a>
-          </li>
-        ))}
-      </animated.ul>
+      {citation.items.map((item, index) => (
+        <div key={index}>
+          <div onClick={() => toggleParagraph(index)}>
+            <h3>{item.title}</h3>
+          </div>
+          <a href={item.url} target="_blank" rel="noopener noreferrer">
+            View PDF
+          </a>
+          <div
+            className={`paragraph ${expanded[index] ? 'expanded' : 'collapsed'}`}
+          >
+            <p>{item.paragraph}</p>
+          </div>
+        </div>
+      ))}
     </div>
   );
 };
 
 export default TreeView;
+
+
+
+
+.paragraph {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.5s ease-in-out;
+}
+
+.paragraph.expanded {
+  max-height: 500px; /* or any value you prefer */
+}
+
