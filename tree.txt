@@ -1,0 +1,43 @@
+import React, { useState } from 'react';
+
+const TreeNode = ({ title, fileNames, paragraph }) => {
+  const [isExpanded, setExpanded] = useState(false);
+  const [isParagraphVisible, setParagraphVisible] = useState(false);
+
+  const toggleExpand = () => {
+    setExpanded(!isExpanded);
+  };
+
+  const toggleParagraph = () => {
+    setParagraphVisible(!isParagraphVisible);
+  };
+
+  return (
+    <div style={{ marginLeft: isExpanded ? '20px' : '0' }}>
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+        <div>
+          <span>{title}</span>
+          {fileNames && (
+            <div>
+              {fileNames.map((fileName, index) => (
+                <div key={index} style={{ marginLeft: '10px' }}>
+                  <a href={fileName.url} target="_blank" rel="noopener noreferrer">
+                    {fileName.pageNumber}
+                  </a>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+        {paragraph && (
+          <button onClick={toggleParagraph}>{isParagraphVisible ? 'Hide' : 'Show'} More</button>
+        )}
+        <button onClick={toggleExpand}>{isExpanded ? 'Hide' : 'Show'} Children</button>
+      </div>
+      {isParagraphVisible && <p>{paragraph}</p>}
+      {isExpanded && <div> {/* Add Child components here */}</div>}
+    </div>
+  );
+};
+
+export default TreeNode;
