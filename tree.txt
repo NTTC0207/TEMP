@@ -1,15 +1,18 @@
 import React, { useState } from 'react';
 
 const TreeNode = ({ citation, children }) => {
+  const [expandedItems, setExpandedItems] = useState({});
   const [isExpanded, setExpanded] = useState(false);
-  const [isParagraphVisible, setParagraphVisible] = useState(false);
 
   const toggleExpand = () => {
     setExpanded(!isExpanded);
   };
 
-  const toggleParagraph = () => {
-    setParagraphVisible(!isParagraphVisible);
+  const toggleParagraph = (index) => {
+    setExpandedItems((prevExpandedItems) => ({
+      ...prevExpandedItems,
+      [index]: !prevExpandedItems[index],
+    }));
   };
 
   return (
@@ -18,33 +21,22 @@ const TreeNode = ({ citation, children }) => {
         <div>
           {citation && (
             <div>
-              <span>{citation.title}</span>
-              {citation.items && (
-                <div>
-                  {citation.items.map((item, index) => (
-                    <div key={index} style={{ marginLeft: '10px' }}>
-                      <a href={item.url} target="_blank" rel="noopener noreferrer">
-                        {item.title}
-                      </a>
-                    </div>
-                  ))}
+              {citation.items && citation.items.map((item, index) => (
+                <div key={index} style={{ marginBottom: '10px' }}>
+                  <span>{item.title}</span>
+                  <button onClick={() => toggleParagraph(index)}>
+                    {expandedItems[index] ? 'Hide' : 'Show More'}
+                  </button>
+                  {expandedItems[index] && <p>{item.paragraph}</p>}
                 </div>
-              )}
+              ))}
             </div>
           )}
         </div>
         {citation && citation.items && (
-          <button onClick={toggleParagraph}>{isParagraphVisible ? 'Hide' : 'Show'} More</button>
+          <button onClick={toggleExpand}>{isExpanded ? 'Hide' : 'Show'} Children</button>
         )}
-        <button onClick={toggleExpand}>{isExpanded ? 'Hide' : 'Show'} Children</button>
       </div>
-      {isParagraphVisible && citation && citation.items && (
-        <div>
-          {citation.items.map((item, index) => (
-            <p key={index}>{item.paragraph}</p>
-          ))}
-        </div>
-      )}
       {isExpanded && <div>{children}</div>}
     </div>
   );
