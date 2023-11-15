@@ -62,13 +62,13 @@ export default TreeNode;
 }
 
 .children-container {
+  transform-origin: top;
+  transform: scaleY(0);
   opacity: 0;
-  height: 0;
-  overflow: hidden;
-  transition: height 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
 
 .tree-node.expanded .children-container {
+  transform: scaleY(1);
   opacity: 1;
-  height: auto;
 }
