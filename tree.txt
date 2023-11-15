@@ -63,13 +63,12 @@ export default TreeNode;
 
 .children-container {
   opacity: 0;
-  max-height: 0;
+  height: 0;
   overflow: hidden;
-  transition: max-height 0.3s ease-in-out, opacity 0.3s ease-in-out;
+  transition: height 0.3s ease-in-out, opacity 0.3s ease-in-out;
 }
 
 .tree-node.expanded .children-container {
   opacity: 1;
-  max-height: 1000px; /* Adjust the maximum height as needed */
+  height: auto;
 }
-
