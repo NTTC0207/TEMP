@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './TreeNode.css'; // Import your CSS file for styling
 
 const TreeNode = ({ citation, children }) => {
   const [expandedItems, setExpandedItems] = useState({});
@@ -16,30 +17,92 @@ const TreeNode = ({ citation, children }) => {
   };
 
   return (
-    <div style={{ marginLeft: isExpanded ? '20px' : '0' }}>
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-        <div>
-          {citation && (
-            <div>
-              {citation.items && citation.items.map((item, index) => (
-                <div key={index} style={{ marginBottom: '10px' }}>
+    <div className={`tree-node ${isExpanded ? 'expanded' : ''}`}>
+      <div className="tree-node-header" onClick={toggleExpand}>
+        {citation && (
+          <div>
+            {citation.items &&
+              citation.items.map((item, index) => (
+                <div key={index} className="item-container">
                   <span>{item.title}</span>
                   <button onClick={() => toggleParagraph(index)}>
                     {expandedItems[index] ? 'Hide' : 'Show More'}
                   </button>
-                  {expandedItems[index] && <p>{item.paragraph}</p>}
                 </div>
               ))}
-            </div>
-          )}
-        </div>
-        {citation && citation.items && (
-          <button onClick={toggleExpand}>{isExpanded ? 'Hide' : 'Show'} Children</button>
+          </div>
         )}
       </div>
-      {isExpanded && <div>{children}</div>}
+      <div className={`paragraph-container ${isExpanded ? 'visible' : ''}`}>
+        {citation && citation.items && (
+          <div>
+            {citation.items.map((item, index) => (
+              <p
+                key={index}
+                className={`paragraph ${expandedItems[index] ? 'expanded' : ''}`}
+              >
+                {item.paragraph}
+              </p>
+            ))}
+          </div>
+        )}
+      </div>
+      {isExpanded && <div className="children-container">{children}</div>}
     </div>
   );
 };
 
 export default TreeNode;
+
+
+
+
+
+
+
+
+
+
+
+
+
+.tree-node {
+  transition: height 0.5s ease;
+}
+
+.tree-node.expanded {
+  height: auto;
+}
+
+.tree-node-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+
+.paragraph-container {
+  overflow: hidden;
+  height: 0;
+}
+
+.paragraph-container.visible {
+  height: auto;
+}
+
+.paragraph {
+  transition: height 0.5s ease;
+  overflow: hidden;
+  height: 0;
+}
+
+.paragraph.expanded {
+  height: auto;
+}
+
+.children-container {
+  margin-left: 20px;
+}
+
