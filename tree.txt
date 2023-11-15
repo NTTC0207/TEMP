@@ -1,74 +1,36 @@
 import React, { useState } from 'react';
-import './TreeNode.css'; // Import the CSS file for styling
+import { useSpring, animated } from 'react-spring';
 
-const TreeNode = ({ citation, children }) => {
-  const [expandedItems, setExpandedItems] = useState({});
-  const [isExpanded, setExpanded] = useState(false);
+const TreeView = ({ citation }) => {
+  const [expanded, setExpanded] = useState(false);
 
-  const toggleExpand = () => {
-    setExpanded(!isExpanded);
-  };
+  const springProps = useSpring({
+    height: expanded ? 'auto' : 0,
+    opacity: expanded ? 1 : 0,
+  });
 
-  const toggleParagraph = (index) => {
-    setExpandedItems((prevExpandedItems) => ({
-      ...prevExpandedItems,
-      [index]: !prevExpandedItems[index],
-    }));
+  const handleToggle = () => {
+    setExpanded(!expanded);
   };
 
   return (
-    <div className={`tree-node ${isExpanded ? 'expanded' : ''}`}>
-      <div className="node-header">
-        <div>
-          {citation && (
-            <div>
-              {citation.items && citation.items.map((item, index) => (
-                <div key={index} className="item-container">
-                  <span>{item.title}</span>
-                  <button onClick={() => toggleParagraph(index)}>
-                    {expandedItems[index] ? 'Hide' : 'Show More'}
-                  </button>
-                  {expandedItems[index] && <p>{item.paragraph}</p>}
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
-        {citation && citation.items && (
-          <button onClick={toggleExpand}>{isExpanded ? 'Hide' : 'Show'} Children</button>
-        )}
+    <div>
+      <div onClick={handleToggle} style={{ cursor: 'pointer' }}>
+        {expanded ? 'Hide' : 'Show more'} items
       </div>
-      {isExpanded && <div className="children-container">{children}</div>}
+      <animated.ul style={springProps}>
+        {citation.items.map((item, index) => (
+          <li key={index}>
+            <strong>{item.title}</strong>
+            <animated.p style={springProps}>{item.paragraph}</animated.p>
+            <a href={item.url} target="_blank" rel="noopener noreferrer">
+              {item.url}
+            </a>
+          </li>
+        ))}
+      </animated.ul>
     </div>
   );
 };
 
-export default TreeNode;
-
-
-
-.tree-node {
-  transition: margin-left 0.3s ease-in-out; /* Add transition for smooth margin change */
-}
-
-.node-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.item-container {
-  margin-bottom: 10px;
-}
-
-.children-container {
-  transform-origin: top;
-  transform: scaleY(0);
-  opacity: 0;
-  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
-}
-
-.tree-node.expanded .children-container {
-  transform: scaleY(1);
-  opacity: 1;
-}
+export default TreeView;
