@@ -1,0 +1,2119 @@
+
+You said:
+Loma 291 exam 
+ChatGPT said:
+ChatGPT
+LOMA 291 is part of the LOMA (Life Office Management Association) exams, specifically focusing on "Insurance Company Operations." It covers a wide range of topics related to the operations of insurance companies, including:
+
+Insurance Fundamentals: Basic principles and concepts of insurance.
+Insurance Products: Various types of insurance products and their features.
+Operations and Management: How insurance companies are managed and operated.
+Regulatory Environment: The laws and regulations governing insurance operations.
+If you have specific questions or need help with certain topics from the exam, feel free to ask!
+
+
+
+
+
+
+You said:
+Of the following assets, the one that generally is the most liquid is
+a building
+land
+Cash
+furniture
+
+
+ChatGPT said:
+ChatGPT
+
+
+
+
+
+You said:
+Of the following assets, the one that generally is the most liquid is
+a building
+land
+Cash
+furniture
+
+
+ChatGPT said:
+ChatGPT
+The most liquid asset among the ones listed is cash. Liquidity refers to how quickly and easily an asset can be converted into cash without significant loss of value. Cash is already in its most liquid form, while buildings, land, and furniture would need to be sold or converted to cash, which can take time and may involve loss of value.
+
+
+
+
+
+
+You said:
+2 of 15
+The audit function in an insurance company typically reports directly to the
+O chief executive officer (CEO)
+portfoliomanager
+treasurer
+Sh
+audit / risk committee of the board of directors
+ChatGPT said:
+ChatGPT
+The audit function in an insurance company typically reports directly to the audit/risk committee of the board of directors. This reporting structure helps ensure the independence and objectivity of the audit function.
+
+
+
+
+
+
+You said:
+Two types of financial securities are debt securities and equity securities One exampie ofa
+a bond, which is a long-term loan secured by a pledge of specfed property
+a bond, which represents an ownership interest in the issuing company
+corporate stock, which is a long-term loan secured by a pledge of specifed property
+Corporate stock, which represents an ownership interest in the issuing company
+ChatGPT said:
+ChatGPT
+The correct example of each type of financial security is:
+
+Debt security: A bond, which is a long-term loan secured by a pledge of specified property.
+Equity security: Corporate stock, which represents an ownership interest in the issuing company.
+
+
+
+
+
+You said:
+Which one is correct
+ChatGPT said:
+ChatGPT
+The correct examples are:
+
+Debt security: A bond, which is a long-term loan secured by a pledge of specified property.
+Equity security: Corporate stock, which represents an ownership interest in the issuing company.
+
+
+
+
+
+You said:
+4 of 15
+For this question, if answer choices (1) through (3) are all correct, select answer choice (4). Otherwise, select the one correct ansiwer choice
+A budget is a plan of action, expressed in monetary terms, that covers a specifled time period. Correct statements about budgets incude
+that budgets can be used as steering controls and concurrent controls, but not as feedback controls
+that the most important aspect of a budget varlance is whether it is positive or negative
+that a budget variance is the differencabetween actual results and anticipated results
+all of the above
+ChatGPT said:
+ChatGPT
+The correct answer is that a budget variance is the difference between actual results and anticipated results.
+
+Here's why:
+
+Budgets can be used as steering controls, concurrent controls, and feedback controls. They help guide actions (steering), monitor ongoing performance (concurrent), and evaluate past performance (feedback).
+The importance of a budget variance is not solely whether it is positive or negative but also the reasons behind it and its implications for future planning and control.
+Therefore, not all the statements are correct, making that a budget variance is the difference between actual results and anticipated results the accurate choice.
+
+
+
+
+
+
+You said:
+5 of 15
+Lilith Steinem works as a trader for the Trillium lnsurance Company. Of the following descriptions, the one that best describes Ms. Steinem's duties as a trader is
+that she
+forecasts and tracks economic trends
+cOordinates investment strategies for specific investment accounts
+buys and sells securities Such as stocks and bonds
+conducts research into specific investment oppotunities
+ChatGPT said:
+ChatGPT
+The description that best fits Ms. Steinem's duties as a trader is that she buys and sells securities such as stocks and bonds. Traders are primarily responsible for executing trades in financial markets.
+
+
+
+
+
+
+You said:
+6 of 15
+Last year, the Marigold Insurance Company earned $500 million in revenues and incurred $520 milion in expenses. Trerefure, Marigolds net (loss / income)
+last year was $20 million. Assuming that Marigold is a typical insurance company, Its biggest expense last year most ikey was (operating expenses / benefit
+payments).
+loss / operating expenses
+loss / benefit payments
+income /operating expenses
+income / benefit payments
+ChatGPT said:
+ChatGPT
+Given that Marigold Insurance Company had a net loss of $20 million (revenues of $500 million minus expenses of $520 million), and considering that for a typical insurance company, the biggest expense is usually related to claims and benefits paid to policyholders, the most likely biggest expense would be benefit payments.
+
+So, the correct choice is: loss / benefit payments.
+
+
+
+
+
+
+You said:
+7 of 15
+Gloria Benz is the chief financial officer (CFO) for the Haiku Insurance Company. If Halku's management structure s typica then
+directly to Haiku's
+chief risk officer (CRO)
+controller
+chief executive officer (CEO)
+treasurer
+ChatGPT said:
+ChatGPT
+In a typical management structure for an insurance company, the Chief Financial Officer (CFO) usually reports directly to the Chief Executive Officer (CEO). The CFO is responsible for overseeing financial operations, strategy, and reporting, and their direct reporting line to the CEO ensures alignment with the overall strategic goals of the company.
+
+
+
+
+
+
+You said:
+8 of 15
+The following statements are about regulatory financial condition examinations. Three statements are true, and one statemert is false. Select the answer cholce
+containing the FALSE statement.
+Insurance companies are required to undergo a financial condition examination on an annual basis.
+Examiners typically visit the insurance company's offices during a financial condition examination.
+Ifa problem is uncovered during a financial cohdition examination, the insurance company has 30 days to respond in writing to the report.
+A financial condition examination involves an evaluation of the insurance company's acCOunting records, as well as its business practices.
+ChatGPT said:
+ChatGPT
+The false statement is:
+
+Insurance companies are required to undergo a financial condition examination on an annual basis.
+
+In reality, insurance companies are not required to undergo financial condition examinations annually. The frequency of these examinations varies by regulatory requirements and may not be annual.
+
+
+
+
+
+
+You said:
+9 of 15
+The following insurance companies operate in the United States:
+• The lron Insurance Company, a stock insurance company, sells only guaranteed products Such as whole life insurance and fixed annuities.
+• The Fusion Insurance Company, a mutual insurance company, sells both fixed and variable insurance products.
+Select the answer choice that correctly indicates whether the Securities and Exchange Commission (SEC) requires Iron and Fusion to publish an annual report.
+Iron required to publish?
+yes
+yes
+no
+no
+Fusion required t
+yes
+no
+yes
+no
+to publish?
+ChatGPT said:
+ChatGPT
+The Securities and Exchange Commission (SEC) requires companies to publish annual reports primarily if they are publicly traded.
+
+Iron Insurance Company: As a stock insurance company selling guaranteed products, it is likely a private entity if it's not publicly traded. Therefore, it is not required to publish an annual report to the SEC.
+Fusion Insurance Company: As a mutual insurance company, it is also likely private unless it is publicly traded. Thus, it is not required to publish an annual report to the SEC.
+So, the correct answer choices are:
+
+Iron required to publish? No
+Fusion required to publish? No
+
+
+
+
+
+You said:
+10 of 15
+The relationship between assets, labilties, and capital on the balance sheet is based on the basic accourting equation the bast atgn b
+Assets = Liabilities - Capital
+Assets =Liabilities + Capital
+Liabilities = Assets + Capital
+Revenue = Capital - Assets
+ChatGPT said:
+ChatGPT
+The basic accounting equation is:
+
+Assets = Liabilities + Capital
+
+This equation reflects the relationship between a company's assets, liabilities, and owner's equity (capital).
+
+
+
+
+
+
+You said:
+11 of 15
+The users of an insurance company's accounting information generally fall into two groups: internal users and external users. Exampies of erternal users cf an
+insurance company's accounting information include
+A. Policyowners
+B. Home office employees
+C. Regulators
+D. Rating agencies
+A, B, C, and D
+A, C, and D only
+A and D only
+Band C only
+ChatGPT said:
+ChatGPT
+Examples of external users of an insurance company's accounting information include:
+
+Policyowners (A): They are external to the company but have an interest in the company's financial stability.
+Regulators (C): They require financial information to ensure the company complies with regulations.
+Rating agencies (D): They use the information to assess the company's creditworthiness and financial strength.
+Home office employees (B) are internal users.
+
+Thus, the correct choice is A, C, and D only.
+
+
+
+
+
+
+You said:
+12 of 15
+Graham Spader owns a hole life insurance policy issued by the Parkview Insurance Company. Parkview most lkely holds the assets that support ts contractual
+obligations for guaranteed products, such as Mr. Spader's whole life insurance policy, in its (general / separate) account. (Mr. Spader / Parkview) bears the
+investment risk associated with the account that supports this whole life insurance policy.
+general / Mr. Spader
+general/ Parkview
+separate / Mr. Spader
+separate / Parkview
+ChatGPT said:
+ChatGPT
+For a whole life insurance policy, the insurance company typically holds the assets that support its contractual obligations in its general account.
+
+In this case, Parkview bears the investment risk associated with the general account, not the policyholder.
+
+So, the correct answer is general / Parkview.
+
+
+
+
+
+
+You said:
+13 of 15
+The type of accOunting that focuses on the needs of external users of a companys accounting information is caled
+expense accounting
+COst accOunting
+financial accounting
+management accounting
+ChatGPT said:
+ChatGPT
+The type of accounting that focuses on the needs of external users of a company's accounting information is called financial accounting.
+
+Financial accounting provides reports such as income statements, balance sheets, and cash flow statements to external stakeholders like investors, regulators, and creditors.
+
+
+
+
+
+
+You said:
+Module 31 of 15
+The Fair Credit Reporting Act is a United States federal law that
+requires insurance companies to develop, implement, and maintain an information security program
+regulates the reporting and use of consumer credit information
+requires insurance companies to maintain policies to safeguard the security and confidentiality of customers' nonpublic personal information
+protects investors by requiring more transparency and accOuntability by financial services companies
+
+
+ChatGPT said:
+ChatGPT
+The Fair Credit Reporting Act (FCRA) is a United States federal law that regulates the reporting and use of consumer credit information. It aims to ensure the accuracy, fairness, and privacy of information contained in consumer credit reports.
+
+
+
+
+
+
+You said:
+2 of 15
+With regard to the product development process for insurance products, it is correct to say that
+new products cannot be modified after they are introduced to the market
+product development teams are comprised entirely of marketing specialists
+compensation for financial professionals is a small cost element of new products
+large numbers of personnel are involved in the process
+ChatGPT said:
+ChatGPT
+The correct statement regarding the product development process for insurance products is:
+
+Large numbers of personnel are involved in the process.
+
+The development of new insurance products typically involves input from various departments, including marketing, actuarial, legal, and underwriting, among others.
+
+
+
+
+
+
+You said:
+3 of 15
+One element ofa comprehensive business analysis provides a detailed description of the marketing goals for a product or product line, and it also describes the
+strategjes and the implementation and control efforts the company intends to use to achieve those goals. This element of a comprehensive business analysis is
+known as a
+readability requirement
+feasibility study
+market analysis
+marketing plan
+
+
+ChatGPT said:
+ChatGPT
+The element of a comprehensive business analysis that provides a detailed description of the marketing goals for a product or product line, along with the strategies, implementation, and control efforts, is known as a marketing plan.
+
+
+
+
+
+
+You said:
+4 of 15
+The Bedford Insurance Company maintains an effectlve regulatory compliance management program. True statenents about Bedford's regulatory complance
+management prOgram include
+A. That it educates employees about the laws and regulations relevant to their work activities
+B. That it prohibits Bedford from monitoring its employees and financial professionals to make sure they are following established policies and procedures
+Both A and B
+O A only
+B only
+Neither A nor B
+ChatGPT said:
+ChatGPT
+The correct statement about Bedford's regulatory compliance management program is:
+
+A only.
+
+An effective regulatory compliance management program would indeed educate employees about relevant laws and regulations. However, it would not prohibit monitoring to ensure that policies and procedures are being followed. Monitoring is a critical component of ensuring compliance.
+
+
+
+
+
+
+You said:
+5 of 15
+An insurance companys marketing department works with other functional areas and makes valuable contributions to mary compary acthvtes Some atvities
+are primarily the responsiblity of the marketing department. The marketing department typicaly is prirmarily responsible for all of the folowng actvities EXCEPT
+obtaining marketing information
+O target marketing
+O product financial design
+O advertising
+ChatGPT said:
+ChatGPT
+The marketing department typically is primarily responsible for activities such as:
+
+Obtaining marketing information
+Target marketing
+Advertising
+However, product financial design is generally not primarily the responsibility of the marketing department. Instead, this activity often falls under the purview of actuarial and financial departments.
+
+
+
+
+
+
+You said:
+6 of 15
+Darren Lee, a sales agent for EXcellent Financial Services, met face to face with Amanda Garrison, a prospective customer. During this meeting, Mr. Lee
+Customnized his message about Excellent's complex financial products, and Ms. Garrison was able tO ask Mr. Lee questions to clarify information. In this situa
+it is correct to Say that Mr. Lee used the promotional tool of
+publicity
+institutional advertising
+image advertising
+personal selling
+ChatGPT said:
+ChatGPT
+In this situation, it is correct to say that Mr. Lee used the promotional tool of personal selling.
+
+Personal selling involves face-to-face interaction between a sales agent and a prospective customer, allowing for customized messaging and immediate clarification of information.
+
+
+
+
+
+
+You said:
+7 of 15
+Select the answer choice containing the term that correctly completes the following statement:
+An insurance company uses various types of information systems, including transaction processing systerns, workiow management systems, policy
+store knowledge in the form of rules and apply thase rules to make
+administration systems, and expert systems. For the underwriting function,
+inferences and decisions similar to the way a human underwriter does.
+transaction processing systems
+workílow management systems
+policy admin istration systems
+expert systems
+ChatGPT said:
+ChatGPT
+For the underwriting function, an insurance company would use expert systems.
+
+Expert systems are designed to store knowledge in the form of rules and apply those rules to make inferences and decisions similar to the way a human underwriter does.
+
+
+
+
+
+
+You said:
+8 of 15
+Insurers often have separate legal and compliance departments in which legal staff and compliance staff perforrn distinct activities. Consider the following
+activities:
+Activity A: Advising the product development team on contract law and tax law
+Activity B: Advising human resources staff on lawS related to employee rights and benefits
+Of these activities, it is correct to say that an insurer's legal staff typically performs
+both Activity A and Activity B
+Activity A only
+Activity B only
+O neither Activity A nor Activity B
+
+
+ChatGPT said:
+ChatGPT
+It is correct to say that an insurer's legal staff typically performs both Activity A and Activity B.
+
+Legal staff generally provides advice on a wide range of legal issues, including those related to contract law and tax law (Activity A), as well as laws related to employee rights and benefits (Activity B).
+
+
+
+
+
+
+You said:
+9 of 15
+In the context of product development, the process an insurance company uses to evaluate new product ideas quickly and inexpensively to separate workable
+ideas from those that have little or no potential is known, by definition, as
+idea screening
+policy filing
+quantitative research
+target marketing
+ChatGPT said:
+ChatGPT
+In the context of product development, the process an insurance company uses to evaluate new product ideas quickly and inexpensively to separate workable ideas from those that have little or no potential is known as idea screening.
+
+
+
+
+
+
+You said:
+10 of 15
+Select the answer choice cntaining the term that correctly completes the following staternent:
+Actuaries test the financial designs of proposed products using
+various financial values interact over a long future period.
+tactical/action programs
+financial models
+Concept tests
+Omarketing projections
+, which are computer programs that describe a produt matihematicaly and show
+ChatGPT said:
+ChatGPT
+Actuaries test the financial designs of proposed products using financial models, which are computer programs that describe a product mathematically and show how various financial values interact over a long future period.
+
+
+
+
+
+
+You said:
+11 of 15
+The activities a company performs when implementing a new insurance product can be categorized as Day 1 activities, which must be completed before
+product can be introduced to market, and Day 2 activities, which can be delayed until after product introduction. Consider the following activities that an
+insurance company performs for a new product:
+Activity A: Developing product illustrations and disclosure documents
+Activity B: Designing promotional and training materials
+Activity C: Bringing a policy administration system on line
+Activity D: Processing contract owner requests after policy isSue
+Of these activities, the one that generally is considered to be a Day 2 activity is
+Activity A
+O Activity B
+Activity C
+Activity D
+ChatGPT said:
+ChatGPT
+The activity that generally is considered to be a Day 2 activity is:
+
+Activity D: Processing contract owner requests after policy issuance
+
+Day 2 activities are those that can be performed after the product has been introduced to the market, while Day 1 activities must be completed before the product launch. Activities like developing product illustrations, designing promotional materials, and bringing a policy administration system online are typically required before the product is launched.
+
+
+
+
+
+
+You said:
+The lessen Insurance Company conducted a Survey of current and potential customers to determine their interest in a potential nevw annuity product. Jesse
+onducted focus groups among potential customers to identify the benefits that Customers wanted from such a product. This information indicates that jes
+engaged in
+marketing research
+a market conduct examination
+website and social media analysis
+) technical design
+ChatGPT said:
+ChatGPT
+The activities described—conducting a survey of current and potential customers and conducting focus groups to identify desired benefits—indicate that Jesse engaged in marketing research. Marketing research involves gathering and analyzing information about customer preferences and market needs to guide product development and strategy.
+
+
+
+
+
+
+You said:
+12 of 15
+The number of market segments that a company chooses depends on the target marketing strategy the company uses, VWhen a company foCuses all of its
+marketing resources on satisfying the needs of one segment of the total market for a partlcular type of product, the company Is sald to be using (a
+concentrated / an undifferentiated) marketing strategy. Using a (mass / differentiated) marketing strategy, a comparny attermpts to satisfy the needs of
+different segments of the total market by offering a number of products and marketing mlxes deslgned to appeal to the various segmnents.
+a concentrated / mass
+a concentrated / differentlated
+an undifferentlated / mass
+an undifferentiated / differentiated
+
+
+ChatGPT said:
+ChatGPT
+When a company focuses all of its marketing resources on satisfying the needs of one segment of the total market for a particular type of product, the company is said to be using a concentrated marketing strategy.
+
+Using a differentiated marketing strategy, a company attempts to satisfy the needs of different segments of the total market by offering a number of products and marketing mixes designed to appeal to the various segments.
+
+So, the correct answer is:
+
+a concentrated / differentiated
+
+
+
+
+
+
+You said:
+14 of 20
+For this question, if answer choices (1) through (3) are all correct, select answer choice (4), Otherwise, select the one
+Correct answer choice.
+Claim analysts use claim investigations to gather the information needed to properly assess a claim. Sometimesa caim
+requires a more extensive investigation than does a routine claim. Situations that would typically require a claim analyst to
+Conduct a more extensive investigation to verify proof of loss include situations in whích
+the insured died of natural causes
+Cnglish
+the insured's death happened in a foreign country
+the insured died after the expiration of the policys Contestable period
+any of the above situations occurred
+
+
+ChatGPT said:
+ChatGPT
+In the context of claims investigations, situations that would typically require a claim analyst to conduct a more extensive investigation to verify proof of loss include:
+
+The insured's death happened in a foreign country
+The insured died after the expiration of the policy's Contestable period
+Both of these situations generally involve more complexity and potential for additional scrutiny.
+
+So, the correct answer is any of the above situations occurred.
+
+
+
+
+
+
+You said:
+only one answer
+ChatGPT said:
+ChatGPT
+In that case, the most likely situation that would require a more extensive investigation is:
+
+The insured's death happened in a foreign country.
+
+This situation often involves additional complexities such as verifying international documentation and circumstances.
+
+
+
+
+
+
+You said:
+17 of 20
+In evaluating the performance of its customer service system, the Waconda Financial Services Company determined that
+3% of inbound calls are placed on hold and then terminated by the caller before the call is answered by someone who can
+meet customer needs. This operational metric is generally known as the
+net promoter sCore (NPS)
+abandonment rate
+first-contact resolution rate
+average speed of answer
+SSessmer
+12
+67 8
+12 1314
+18 19 20
+
+
+ChatGPT said:
+ChatGPT
+The operational metric that measures the percentage of inbound calls placed on hold and then terminated by the caller before being answered is known as the abandonment rate.
+
+
+
+
+
+
+You said:
+18 of 20
+The Model Unfair Claims Settlement Practices Act from the National Association of Insurance Commíssíoners (NAIC) lísts a
+number of actions that are considered unfair claim practices. Under the Model Act, if a claim analyst commits one of these
+actions by mistake and was not attempting to disregard the law with his actions, the practice typically (is / is not) treated
+as an unfair claim practice. If that same action ocCurs so frequently as to indicate a general business practice, the action
+typically (is / is not) considered an unfair claim practice under the Model Act.
+is / is
+O is/is not
+O is not / is
+ngiish
+is not / is not
+ChatGPT said:
+ChatGPT
+Under the Model Unfair Claims Settlement Practices Act from the National Association of Insurance Commissioners (NAIC):
+
+If a claim analyst commits an unfair claim practice by mistake and was not attempting to disregard the law, the practice is not typically treated as an unfair claim practice.
+If the same action occurs so frequently as to indicate a general business practice, the action is considered an unfair claim practice under the Model Act.
+So, the correct choice is is not / is.
+
+
+
+
+
+
+You said:
+20 of 20
+retained asset aCCount (RAA) option
+Patricia Coller, the beneflclary of a lIlfe Insurance policy, elected a settlerment option under which the insurer will pay policy
+proceeds and interest in a series of equal payments for as long as the proceeds last. This information indicates that
+Ms. Collier elected the type of settlement option known as the
+flxed-amount option
+life income option
+2 Exam English
+interest option
+Assessment progress:
+ChatGPT said:
+ChatGPT
+Based on the description provided, Patricia Coller elected the type of settlement option known as the fixed-amount option.
+
+This option involves the insurer paying policy proceeds and interest in a series of equal payments until the proceeds are exhausted.
+
+
+
+
+
+
+You said:
+LOMA
+Novigate With Conhidence
+LOMA 291 Module 1 Exam English
+1 of 10
+Operational risks can be divided into two categories. business process risks and event risks. A business interruption that results from a natural disaster is an
+example of (a business process risk / an event risk), which is due to a potential failure in the company's (external environment / processes, controls, or
+systems).
+a business process risk/external environment
+a business process risk / processes, controls, or systems
+an event risk / external environment
+an event risk / processes, Controls, or systems
+G Previous Question
+viVo V21
+Next Question
+Assessment progress:
+Sep 11, 2024, 16:05
+220428
+ChatGPT said:
+ChatGPT
+The correct answer is:
+
+an event risk / external environment
+
+A business interruption caused by a natural disaster is considered an event risk because it stems from external factors outside the company's control, such as environmental factors.
+
+
+
+
+
+
+You said:
+LOMA
+Nviaute Wih Canfidence
+LOMA 291 Module 1 Exanm English
+20f 10
+are/are
+in the cCOurse oi performing a job, employees have acdess to inside informatíon. Employees (are / are not) restricted from disciosing a companys Inside
+nformation to third parties. Marketing strategjes (are / are not) considered to be inside information.
+are /are not
+are not/ are
+are not / are not
+G Previous Question
+VİVO V21
+JO EXm/container
+Next Question
+Sep ) 2024, 16:05
+Assessment progress:
+220
+ChatGPT said:
+ChatGPT
+The correct answer is:
+
+are / are not
+
+Employees are restricted from disclosing a company's inside information to third parties. However, marketing strategies are generally not considered inside information.
+
+
+
+
+
+
+You said:
+Questionmark OnDemand - Work - Microsoft Edge
+Ô https//ondemand.questionmark.com/Lobby/406080/Exam/Container
+LOMA
+Navigate With Conhidence
+LOMA 291 Module 1 Exam English
+4 of 10
+The board of directors of an insurance company is a group of company executives and outside business professionals eected by The companys ouers The
+primary responsibility of the board of directors is to
+ensure that the company's operations comply with all applicable lawend regulations everywhere the company operates
+make broad policy decisions to ensure that stakeholders' interests are safeguarded approprlately
+create plans for day-to-day operations designed to support the organlzation's strategic plans
+present a consistent public image in all company communications
+G Previous Question
+viVO V21
+Next Question
+ASSessTert proESS
+Sep 11RoZ 16:06
+220428160
+ChatGPT said:
+ChatGPT
+The correct answer is:
+
+make broad policy decisions to ensure that stakeholders' interests are safeguarded appropriately
+
+The primary responsibility of the board of directors is to oversee the company's direction by making broad policy decisions, ensuring that the company's management is acting in the best interest of shareholders and other stakeholders.
+
+
+
+
+
+
+You said:
+Questionmark OnDemand - Work - Microsoft Edge
+https://ondemand.questionmark.com/Lobby/406080/Exam/Container
+LOMA
+Navigate With Confiderce
+LOMA 291 Module 1 ExamEnglish
+5 Of 10
+The DoWntownsurance Company useshedgngto
+1imiting investment-SKk
+S
+A DHEchasi
+transferring investment rskst
+VivO V21
+Sep 13,&024eTG:O6
+balancing investments that d
+decrease
+assessing the degree of riskassociated
+Next Question
+assetsthat off
+ffer guaranteed returns
+theacn
+Assessment progress:
+1s with investments that increase in value when the market falis
+dthen assigning them to different risk categories
+manage its investrment risks. Hedging involves
+ChatGPT said:
+ChatGPT
+The correct answer is:
+
+transferring investment risks
+
+Hedging is a risk management strategy that involves using financial instruments or market strategies to offset potential losses in investments, effectively transferring investment risks.
+
+
+
+
+
+
+You said:
+onmark UnDeITlaIIu
+tps//ondemand.questionmark.com/Lobby/40 6080/Exam/Container
+A
+Vith Conlidence
+LOMA 291 Module 1 Exam English
+6 of 10
+The Islarnd Insurance Company divides its operations into two divisions group business and Jndividual business. Each division is further divided into departmehts
+for life insurance products, health insurance products, and annuitles, This inforimation indicates that Island structures its organization according to
+territoy and distribution channel
+O territory and product
+CUstomer group and distribution channel
+Customer group and product
+Previous Question
+Next Question
+Viyo Ve1o
+Assessment progress:
+Sep 11, 2024, 16:07
+220428160.
+ChatGPT said:
+ChatGPT
+The correct answer is:
+
+Customer group and product
+
+Island Insurance Company divides its operations by customer group (group business and individual business) and further by product type (life insurance, health insurance, and annuities), indicating an organizational structure based on customer group and product.
+
+
+
+
+
+
+You said:
+12 of 15
+An insurance company's overall, long-term success in generating positive returns for its owners is known as
+profitability
+solvency
+capital management
+diversification
+You said:
+12 of 15
+An insurance company's overall, long-term success in generating positive returns for its owners is known as
+profitability
+solvency
+capital management
+diversification
+
+
+ChatGPT said:
+ChatGPT
+The correct term for an insurance company's overall, long-term success in generating positive returns for its owners is profitability.
+
+Profitability measures the company’s ability to generate profit relative to its revenue, assets, or equity.
+
+
+
+
+
+
+You said:
+2 of 15
+An Insurer's marketing mbx is made up of four variables-product, promotion, financial design (or price), and distribution (or place). In terms of the marketing mix,
+the goods and services that an insurer offers to customers to satisfy a need make up the variable known as
+O product
+O promotion
+O financial design
+distribution
+ChatGPT said:
+ChatGPT
+In terms of the marketing mix, the goods and services that an insurer offers to customers to satisfy a need make up the variable known as product.
+
+
+
+
+
+
+You said:
+One federal law in the United States requires companies to maintain policies to safeguard the security and confidentiality of customer information. This law,
+which also requires insurance companies to disclose their policies ipr obtaining and sharing customers' nonpublic personal information, is known as the
+Dodd-Frank Act
+O USA PATRIOT Act
+Fair Credit Reporting Act
+O Gramm-Leach-Bliley (GLB) Act
+ChatGPT said:
+ChatGPT
+The federal law in the United States that requires companies to maintain policies to safeguard the security and confidentiality of customer information, and also mandates disclosure of policies regarding the obtaining and sharing of nonpublic personal information, is the Gramm-Leach-Bliley (GLB) Act.
+
+
+
+
+
+
+You said:
+4 of 15
+Insurers often have separate legal and compliance departments in which legal staff and compliance staff perform distinct activities. One activity typically
+performed by an insurers compliance staff is
+drafting financial professional contracts
+advising daim analysts on the company's liability under a policy in cases of claim denial
+helping other departments implement policies and procedures that conform with laws and regulations
+O drafting and reviewing legal documents associated with mergers, acquisitions, and strategic alliances
+ChatGPT said:
+ChatGPT
+One activity typically performed by an insurer's compliance staff is:
+
+helping other departments implement policies and procedures that conform with laws and regulations
+
+Compliance staff focus on ensuring that the company's operations adhere to legal and regulatory requirements, whereas legal staff handle activities like drafting contracts and reviewing legal documents.
+
+
+
+
+
+
+You said:
+5 of 15
+Performance indicators that insurance companies use to monitor and evaluate a product include the product's financial performance, the performance of
+distributors, and the marketplace reaction of customers and competitors. Indicators that relate primarily to an insurance product's financial performance include
+the
+O value of contracts sold
+O number of new customers
+demographics of purchasers
+persistency of a financial professional's business
+ChatGPT said:
+ChatGPT
+Indicators that relate primarily to an insurance product's financial performance include the:
+
+value of contracts sold
+
+This measure reflects the financial performance of the product by indicating the revenue generated from sales.
+
+
+
+
+
+
+You said:
+7 of 15
+The Bayside Insurance Groups target marketing strategy is to focus all of its marketing resources on satisfying the needs of one segnent of the total market for a
+particular type of product. This information indicates that Bayside uses the target marketing strategy known as
+differentiated marketing
+O undifferentiated marketing
+concentrated marketing
+mass marketing
+ChatGPT said:
+ChatGPT
+The target marketing strategy described, where Bayside Insurance Group focuses all of its marketing resources on satisfying the needs of one segment of the total market for a particular type of product, is known as concentrated marketing.
+
+
+
+
+
+
+You said:
+8 of 15
+Select the answer cholce contalining the term that correctly completes the following statement:
+One promotional tool insurers use to make customers aware of their offerings is
+more prospective customers, either face to face or over the telephone.
+publicity
+personal selling
+O institutional advertising
+O image advertising
+which involves conversation between a sales agent and one or
+ChatGPT said:
+ChatGPT
+The correct term to complete the statement is:
+
+personal selling
+
+Personal selling involves direct conversation between a sales agent and prospective customers, either face-to-face or over the telephone.
+
+
+
+
+
+
+You said:
+10 of 15
+When insurance companies evaluate a new product idea, the proposed product undergoes a comprehensive businesS analysis. A conprehensive business
+analyss usualy incudes a feasiblty study, which is designed to
+evaluate al factors that might affect product sales to demonstrate that market demand exists
+O deternine the operational and technical viabilty of producing the product and the impact of the new product on the companys exsting products
+estimate future saies including sales volume, sales revenue, expenses, and profits
+describe the marketing goals for the product and the strategies the company intends to use to achieve those goals
+ChatGPT said:
+ChatGPT
+A comprehensive business analysis usually includes a feasibility study, which is designed to:
+
+determine the operational and technical viability of producing the product and the impact of the new product on the company’s existing products
+
+This study assesses whether the product can be developed and delivered effectively, and how it will affect the company’s current operations and product lineup.
+
+
+
+
+
+
+You said:
+77 of 15
+The actvities a company performs when implementing a new insurance product can be classifled as Day 1 activities, which must be cormpleted before a product
+can be introduced to market and Day 2 activities, which can be delayed until after product introduction. All of the following activities generally are considered to
+be Day 1 actities EXCEPT
+educating and training sales staff
+O processing contract owner requests after policy issue
+O developing required disciosure documents
+des gning promotional materia ls
+ChatGPT said:
+ChatGPT
+The activity that is generally considered a Day 2 activity, which can be delayed until after the product introduction, is:
+
+processing contract owner requests after policy issue
+
+This activity involves handling administrative tasks that occur after the product has been introduced to the market, whereas Day 1 activities are crucial for the initial launch of the product.
+
+
+
+
+
+
+You said:
+The Jessen insurance Company conducted a survey of current and potential customers to determine their interest in a poterntial new annuity product. Jessen also
+conducted focus groups amang potential customers to ldentify the benefits that customers wantedt from sucha product. This inforrmation indicates that lessen
+engaged in
+Omarketing research
+O amarket conduct examination
+) website and soclal media analysis
+)technical deslgn
+ChatGPT said:
+ChatGPT
+The information indicates that Jessen Insurance Company engaged in:
+
+marketing research
+
+Marketing research involves gathering data from surveys and focus groups to understand customer needs and preferences, which helps in evaluating the potential success of new products.
+
+
+
+
+
+
+You said:
+1 of 20
+To assess mortality risk, life insurance underwriters consider a proposed insured's personal, medical, and financial risk factors. Risk factors that an underwriter
+would consider to be personal risk factors include the proposed insured's
+O family medical history
+Current and potential income
+alcohol and drug use
+age and sex
+ChatGPT said:
+ChatGPT
+To assess mortality risk, life insurance underwriters consider personal, medical, and financial risk factors. Personal risk factors include:
+
+alcohol and drug use
+
+Alcohol and drug use are considered personal risk factors because they directly impact an individual's health and, consequently, their mortality risk.
+
+
+
+
+
+
+You said:
+2 of 20
+An underwriter for the Ponderosa Insurance Company evaluated Ryan Sancho, a proposed insured, using the nurmerical rating system that sets the standard
+mortality risk at 100. The underwriter assigned Mr. Sancho a credit of 30 because of good farnily health history, a debt of 30 because of his we ght and a debit of
+40 because of elevated blood pressure. No other debits or credits were assigned. This information indicates that Mr. Sancho received a total numerical rating of
+60
+100
+140
+200
+
+
+ChatGPT said:
+ChatGPT
+To determine Mr. Sancho’s total numerical rating, you calculate as follows:
+
+Standard mortality risk: 100
+Credits: +30 (good family health history)
+Debits: -30 (weight) - 40 (elevated blood pressure)
+Calculation:
+100 (standard) + 30 (credit) - 30 (debit) - 40 (debit) = 60
+
+Thus, Mr. Sancho received a total numerical rating of 60.
+
+
+
+
+
+
+You said:
+LOMA 291 Module 2 Exam English
+3 of 20
+According to the Model Unfair Claims Settlement Practices Act from the National Association of Insurance Cormmissioners (NAIC), Certain claim practices are
+considered unfair if committed by an insurer in conscious disregard of the law, or so frequently as to indicate a general business practice. Claim practices that
+generally are considered to be unfair include
+A. Refusing to pay claims without conducting a reasonable investigation
+B. Failing to promptly acknowledge receipt of claim-related communications
+O Both A and B
+A only
+O Bonly
+Assessment progress:
+Neither A nor B
+ChatGPT said:
+ChatGPT
+According to the Model Unfair Claims Settlement Practices Act from the National Association of Insurance Commissioners (NAIC), claim practices that are generally considered unfair include:
+
+Both A and B
+
+A. Refusing to pay claims without conducting a reasonable investigation
+B. Failing to promptly acknowledge receipt of claim-related communications
+Both practices are deemed unfair as they involve improper handling of claims and lack of proper communication with claimants.
+
+
+
+
+
+
+You said:
+4 of 20
+Insurance company employees must be aware of tactics Used by cybercriminals. For example, a criminal posing as a trusted source could contact an insurance
+company employee and attempt to trick the person into revealing sensitive informatlon, such as usernames, passwords, or social security numbers. This tactic
+commonly known as
+malware
+benchmarking
+monitoring
+phishing
+ChatGPT said:
+ChatGPT
+The tactic described, where a criminal poses as a trusted source to trick individuals into revealing sensitive information, is commonly known as:
+
+phishing
+
+
+
+
+
+
+You said:
+Consider the following performance measures for the customer contact center at the Lion Insurance Company:
+• Measure A: Lion determined that customer service staff processed policy loan applications with an accuracy rate greater than 97%.
+Measure B: In letters written to the company, customers describe Lion's customer service staff as "helpful," "friendiy," and "easy to work with."
+With regard to quantitative and qualitative performance measures, it is correct to say that
+both Measure A and Measure B are qualitative measures
+Measure A is a qualitative measure, and Measure B is a quantitative measure
+Measure A is a quantitative measure, and Measure B is a qualitative measure
+both Measure A and Measure Bare quantitative measures
+ChatGPT said:
+ChatGPT
+In evaluating performance measures:
+
+Measure A (accuracy rate of policy loan applications) is a quantitative measure because it involves numerical data.
+Measure B (customer descriptions such as "helpful" and "friendly") is a qualitative measure because it involves subjective descriptions and feedback.
+So, the correct answer is:
+
+Measure A is a quantitative measure, and Measure B is a qualitative measure.
+
+
+
+
+
+
+You said:
+6 of 20
+Insurance companies must regularly monitor the sales activities of their agents to ensure compliance with market conduct laws. A monitoring system should
+incude a method for identifying certain unlawful sales practices. For exampleran insurance company should be alert for signs of churning, which ocCurs when an
+agent
+receives service fees on an existinglife insurance policy when the agent did not originally sell the policy to the customer
+induces a client to replace one policy after another, multiple times, so that the agent can earn a series of first-year commissions on the replacements
+Ooffers a prospect a cash payment to purchase a life insurance policy or an annuity contract, and this payment is not offered to all applicants in similar
+situations and iS not stated in the policy
+uses sales presentations that have not been approved by the insurance company andthat do not accurately represent the terms of an insurance policy
+ChatGPT said:
+ChatGPT
+Churning occurs when an agent induces a client to replace one policy with another repeatedly, primarily to earn a series of first-year commissions on the replacements.
+
+So, the correct description of churning is:
+
+induces a client to replace one policy after another, multiple times, so that the agent can earn a series of first-year commissions on the replacements.
+
+
+
+
+
+
+You said:
+7 of 20
+To steps in the new business process are the good order check and the suitability or best interest check. One activity that typically takes place during the
+suitability check is ensuring that the
+application form is the correct one
+application form and product applied for have state approval
+financial professional and the insurance company are properly licensed to sell the product applied for
+financial professional sold an amount and type of coverage that are appropriate for the customer
+ChatGPT said:
+ChatGPT
+During the suitability or best interest check, one activity that typically takes place is ensuring that the:
+
+financial professional sold an amount and type of coverage that are appropriate for the customer.
+
+
+
+
+
+
+You said:
+8 of 20
+The claim process begins when the claimant notifies the insurance company of a loss. From there, the first step the claim analyst should take is to determine
+if benefits are payable
+what amount is payable
+who the proper payee is for any benefits
+how the policy proceeds are to be paid
+ChatGPT said:
+ChatGPT
+The first step the claim analyst should take after receiving notification of a loss is to determine if benefits are payable.
+
+
+
+
+
+
+You said:
+11 of 20
+During field underwriting, financial professionals gather initial information about an applicant and proposed insured and complete the application for insurance.
+On one portion of the application, financial professionals report anything they discover during field underwriting that could infiuence an underwriter's decision.
+This portion of the application is known as the
+MIB report
+agent's statement
+personal questionnaire
+teleunderwriting statement
+ChatGPT said:
+ChatGPT
+This portion of the application is known as the agent's statement.
+
+
+
+
+
+
+You said:
+12 of 20
+Although each insurance company sets its own risk classes, some risk classes are typlcal. For example, the risk class to which most insurance companies assigr
+proposed insureds who represent an average level of risk is the
+standard risk class
+declined risk class
+preferred risk class
+Substandard risk class
+ChatGPT said:
+ChatGPT
+The risk class to which most insurance companies assign proposed insureds who represent an average level of risk is the standard risk class.
+
+
+
+
+
+
+You said:
+13 of 20
+A claim analyst received claims on the following insured individuals:
+• Rex Carter, a 70-year-old male who purchased his policy seven years ago, died of a heart attack after exercising at his gym.
+Peggy Patrick, a 46-year-old female who purchased her policy four yearsS ago, died of lung cancer after an extended liness.
+• Deanna Andres, a 35-year-old female, died of unknown causes while in a foreign country.
+• Ralph Dearborn, a 24-year-old male, committed suicide after the suicide exclusion period in his Contract had expired.
+Of these life insurance claims, the one that will likely requirě the most extensive claim investigation is the claim on the ife of
+Mr. Carter
+Ms. Patrick
+MS. Andres
+Mr. Dearborn
+ChatGPT said:
+ChatGPT
+The life insurance claim that will likely require the most extensive investigation is the claim on the life of Ms. Andres. This is because her death occurred under ambiguous circumstances (unknown causes in a foreign country), which often necessitates a thorough investigation to establish the details and cause of death.
+
+
+
+
+
+
+You said:
+14 of 20
+Customers often communicate with an insurance company through the companys customer contact center. One goal of most contact centers is to provide
+complete customer service, which is correctly defined as service that
+is delivered to the customer in a timely manner
+is made available when, where, and how the customer wants it
+permits only authorized people to perform transactions and access and view information.
+resolves every aspect of the customer's problem or inquiry to the customer's satisfaction
+ChatGPT said:
+ChatGPT
+Complete customer service is correctly defined as service that resolves every aspect of the customer's problem or inquiry to the customer's satisfaction. This approach ensures that all issues are addressed comprehensively, leading to a fully satisfied customer.
+
+
+
+
+
+
+You said:
+15 of 20
+Sheri Coy contacted her insurance company and requested information about a policy replacement. In this situation, Ms. Coy was seeking information about
+obtaining a policy loan from the cash value of her life insurance policy
+putting back in force a life insurance policy that she has allowed to lapse
+terminating her life insurance policy and receiving the policys net cash surrender value in a lump sum
+surrendering her life insurance policy and using the policys net cash surrender value to purchase another life insurance policy or annuity
+ChatGPT said:
+ChatGPT
+In this situation, Ms. Coy was seeking information about surrendering her life insurance policy and using the policy's net cash surrender value to purchase another life insurance policy or annuity. This is commonly referred to as a policy replacement.
+
+
+
+
+
+
+You said:
+Which answer is it
+ChatGPT said:
+ChatGPT
+The correct answer is:
+
+surrendering her life insurance policy and using the policy's net cash surrender value to purchase another life insurance policy or annuity.
+
+
+
+
+
+
+You said:
+16 of 20
+The Rackley Insurance Company ofers a complex insurance product to wealthy individuals. This product requires a financial professional with a high degree of
+sales experience and general knowledge about insurance products. Rackley Is wlling to gve up some control over the dstribution channel in order to lower
+distribution costs. Based on this information, the most appropriate distribution option for Rackley's product is likely to be
+direct-t0-Consumer (D2C) channels
+career agents
+salaried sales representatives
+insurance brokers or a comparable intermediary distribution channel
+ChatGPT said:
+ChatGPT
+Based on the information provided, the most appropriate distribution option for Rackley's product is likely to be:
+
+insurance brokers or a comparable intermediary distribution channel.
+
+This is because brokers or intermediaries typically have the high level of experience and expertise required for complex insurance products and can help manage distribution costs while providing access to a knowledgeable sales force.
+
+
+
+
+
+
+You said:
+17 of 20
+The following paragraph contains two pairs of terms enclosed in parentheses., Determnine which term in each pair corecty completes the paragraph. Then select
+the answer choice containing the two terms you have chosen.
+If an insured dies during a life insurance policy's contestable period and the claim analyst discovers that the insurance application contairs a material
+misrepresentation, the insurance company may void the policy, which is a legal process known as (rescission / reinstatement) if a policy is voided for materlal
+misrepresentation, the insurer usually (keeps / refunds) the premiums that the policyowner paid for the coverage.
+rescission / keeps
+rescission / refunds
+reinstatement / keeps
+reinstatement / refunds
+ChatGPT said:
+ChatGPT
+The correct terms are:
+
+rescission / refunds
+
+So the completed sentence is:
+
+"If an insured dies during a life insurance policy's contestable period and the claim analyst discovers that the insurance application contains a material misrepresentation, the insurance company may void the policy, which is a legal process known as rescission. If a policy is voided for material misrepresentation, the insurer usually refunds the premiums that the policyowner paid for the coverage."
+
+
+
+
+
+
+You said:
+19 of 20
+The Gamma Insurance Company recently began marketing its annuity products through independent insurance brokers in addition to its own affiliated career
+agents. However, the specific roles and performance expectations of each channel and channel member were not clearly stated or understood. As a result,
+Gamma's career agents reported losing business to the insurance brokers. The distribution challenge that Gamma is facing is best described as
+channel cannibalism
+agent turnover
+fleld underwriting
+antiselection
+ChatGPT said:
+ChatGPT
+The distribution challenge Gamma Insurance Company is facing is best described as channel cannibalism. This occurs when different distribution channels within the same company compete with each other, leading to a loss of business in one channel due to the activities of another.
+
+
+
+
+
+
+You said:
+20 of 20
+When a cOurt undertakes the legal process of interpleader, the court is engaged in
+checking an insurer's records for any loans against a policy
+determining the proper recipient of an insurance policys proceeds
+verifying that an insurance policy was in force when the loss ocCurred
+recovering money mistakenly paid out on a fraudulent claim
+ChatGPT said:
+ChatGPT
+When a court undertakes the legal process of interpleader, the court is engaged in determining the proper recipient of an insurance policy's proceeds. This process is used when multiple parties claim entitlement to the same insurance benefits.
+
+
+
+
+
+
+You said:
+Which answer is it 
+ChatGPT said:
+ChatGPT
+The answer is: determining the proper recipient of an insurance policy's proceeds.
+
+
+
+
+
+
+You said:
+6 of 10
+In a pyramid-shaped organizational structure, authority is distributed downward from the company's b0ard of directors to executives, middle managers, and
+supervisors. Strategic management functions are generally assigned to the company's
+board of directors
+O executives
+middle managers
+Supervisors
+ChatGPT said:
+ChatGPT
+
+
+
+
+
+You said:
+6 of 10
+In a pyramid-shaped organizational structure, authority is distributed downward from the company's b0ard of directors to executives, middle managers, and
+supervisors. Strategic management functions are generally assigned to the company's
+board of directors
+O executives
+middle managers
+Supervisors
+
+
+ChatGPT said:
+ChatGPT
+The correct answer is executives. Strategic management functions are typically assigned to a company's executives in a pyramid-shaped organizational structure.
+
+
+
+
+
+
+You said:
+T
+ChatGPT said:
+ChatGPT
+Could you clarify your request regarding "T"? I'd be happy to assist you further!
+
+
+
+
+
+
+You said:
+9 of 10
+In addition to showing how authority is distributed to different levels of an organlzation, the chain of command supports the assi gnment of authority and
+responsibility by one employee on the chain to one or more employees who are lower in the chain of command. This process is known as
+division of labor
+delegation
+accountability
+diversification
+
+
+ChatGPT said:
+ChatGPT
+The process of assigning authority and responsibility by one employee to one or more employees who are lower in the chain of command is known as delegation.
+
+
+
+
+
+
+You said:
+Reply answer only 2 Of 15
+In addition to determining the financial design of new products, the actuarial department performs a number of other financial management activities in an
+insurance company. These activities include
+A. Coordinating income from investments vith benefit obligations
+B. Setting policy resenve liabilities
+C. Projecting cash flows, Such as premium payments,
+D. Conducting internal audits
+O AB, C, and D
+A, B, andConly
+A and D only
+O Band C only
+investment income, and benefit
+payments
+
+
+ChatGPT said:
+ChatGPT
+
+
+
+
+
+You said:
+2 Of 15
+In addition to determining the financial design of new products, the actuarial department performs a number of other financial management activities in an
+insurance company. These activities include
+A. Coordinating income from investments vith benefit obligations
+B. Setting policy resenve liabilities
+C. Projecting cash flows, Such as premium payments,
+D. Conducting internal audits
+O AB, C, and D
+A, B, andConly
+A and D only
+O Band C only
+investment income, and benefit
+payments
+
+
+ChatGPT said:
+ChatGPT
+A, B, and C only
+
+
+
+
+
+
+You said:
+3 of 15
+The users of an insurance company's accounting information generally fall into tWo groups: internal users and external users. One example of an internal user
+of an insurance companys accounting information is a
+O policyowner of the insurance Company
+regulator of the insurance company
+creditor of the insurance company
+member of the insurance company's board of directors|
+
+
+ChatGPT said:
+ChatGPT
+A member of the insurance company's board of directors
+
+
+
+
+
+
+You said:
+5 of 15
+For this question, if answer choices (1) through (3) are all correct, select answer choice (4). Otherwise, select the one correct answer choice.
+A budget is a plan of action, expressed in monetary terms, that covers a specified time period. Correct statement about budgets incude
+that budgets can be used as steering controls and concurrent controls, but not as feedback controls
+that the most important aspect of a budget variance is whether it is positive or negative
+that a budget variance is the difference between actual results and anticipated results
+all of the above
+ChatGPT said:
+ChatGPT
+That a budget variance is the difference between actual results and anticipated results
+
+
+
+
+
+
+You said:
+On December 31, the Golden Insurance Company had $35 million in assets and $25 million in capital (owners equity). According to the basic accounting
+equation, Golden's liabilities as of December 31 were equal to
+$10 million
+$25 million
+$35 million
+$60 million
+ChatGPT said:
+ChatGPT
+$10 million
+
+
+
+
+
+
+You said:
+7 of 15
+Two reports that insurance companies in the United States prepare are the Annual Statement and the annual report. Thne report that assumes a company will
+be in business going forward, and that helps users assess a company's profitability, is the (Annual Statement / annual report). An insurance company must
+file the (Annual Statement / annual report) with both the National Association of insurance Commissioners (NAIC) and the insurance departrment of each
+state in which the company does business.
+Annual Statement / Annual Statement
+Annual Statement / annual report
+annual report / Annual Statement
+annual report / annual report
+ChatGPT said:
+ChatGPT
+annual report / Annual Statement
+
+
+
+
+
+
+You said:
+Stacey Stallworth works in the accounting department at the Quark Insurance Company. Ms. Stalworth focuses primarily on provding inandial informa
+about Quark to the company's managers, who use this information to make decisions and use resources effectively. With respect to the categories of
+accounting known as financial accounting and management accOunting, it is correct to say that Ms. Stallworth engages primarily in
+financial accounting, which is a type of accOunting that is future-focused
+financial accounting, which reports on current and past company performance
+management accOunting, which is a type of accounting that is future-focused
+management accOunting, which reports on current and past company performance
+ChatGPT said:
+ChatGPT
+management accounting, which is a type of accounting that is future-focused
+
+
+
+
+
+
+You said:
+Many life insurance companies have twNO najor types of portfolios: the general account and one or more separate accounts. The assets in a life insurance
+Company's (general / separate) account support its contractual obligations for guaranteed products, such as traditional whole life insurance and fixed
+annuities. Life insurance companies are more likely to hold their stock investments in a (general / separate) account.
+general/ general
+general / separate
+separate / general
+separate / separate
+ChatGPT said:
+ChatGPT
+general / separate
+
+
+
+
+
+
+You said:
+11 of 15
+The Polygon Insurance Company, a publicy traded stock insurance company in the United States, hired the Quadrant Company to conduct an external audit of
+its financial statements. The following statements describe this situation. Select the answer choice containing the correct statement.
+If the resuits of the audit are positive, Quadrant will guarantee the accuracy of Polygon's financial statements.
+Quadrant cannot conduct its investigation at Polygon's offices.
+To be qualified to perform the external audit, Quadrant must be a public accounting firm and must not be associated with Polygon.
+Federal securities laws require insurance companies such as Polygon to undergo an external audit at least once every five years.
+ChatGPT said:
+ChatGPT
+To be qualified to perform the external audit, Quadrant must be a public accounting firm and must not be associated with Polygon.
+
+
+
+
+
+
+You said:
+Sometimes insurance companies need to raise capital. Ways that an insurance company can raise capitai
+A. Issuing new shares of stock
+B. Reinsuring part of its business
+C. Seling part of its business
+D. Issuing debt securities
+A, B, C, and D
+A and C only
+B and Donly
+Finclude
+A only
+ChatGPT said:
+ChatGPT
+A, B, C, and D
+
+
+
+
+
+
+You said:
+14 of15
+Typical expenses on an insurance comnpany's income staternent inciude
+premium income
+annuity considerations
+O earnings from investments
+benefit payments to customers
+ChatGPT said:
+ChatGPT
+benefit payments to customers
+
+
+
+
+
+
+You said:
+• The Stardust Mutual lnsurance Company sells both fixed and variable insurance products.
+• The Moonbeam Mutual Insurance Company sells only guaranteed products, such as whole life insurance and fixed annuities.
+Select the answNer choice that correctly indicates whether the SeCurities and Exchange Commission (SEC) requires Stardust and Moonbeam to publish an
+annual report.
+surance companies operate in the United States:
+Stardust required to publish?
+yes
+yes
+no
+no
+Moonbeam required to publish?
+yes
+no
+yes
+no
+
+
+ChatGPT said:
+ChatGPT
+Stardust required to publish? yes
+Moonbeam required to publish? no
+
+
+
+
+
+
+You said:
+Of 20
+Benjamin Cox, a financial professional, met with Kim Popkin, a prospect for life insurance. During their initial meeting, Mr. Cox asked Ms. Popkn several questions
+to determine whether Ms. Popkin was likely to be approved for the type and amount of insurance for which she was applying, in this situation, Mr. Cox engaged
+in an underwriting process known as
+O teleunderwriting
+O benchmarking
+field underwriting
+up-selling
+ChatGPT said:
+ChatGPT
+In this situation, Mr. Cox engaged in an underwriting process known as field underwriting.
+
+
+
+
+
+
+You said:
+2 of 20
+TwO stens in the new busfess process are the good order check and the sutabllty or best interest check. One activity that typicaly takes place during the good
+order check is ensuring that the
+financial professional is properly licensed to sell the product applied for
+amount of coverage is appropriate for the customer
+type of cOverage is appropriate for the customer
+O sale of the product meets the best interest standard
+
+
+ChatGPT said:
+ChatGPT
+One activity that typically takes place during the good order check is ensuring that the financial professional is properly licensed to sell the product applied for.
+
+
+
+
+
+
+You said:
+3 of 20
+Four ways in which insurance companies distribute their products are through multiple-line exclusive agents (MLEAS), Salaried sales representatives, location-
+selling, and worksite marketing. One correct statement about these distribution methods is that
+Omultiple-line exclusive agents (MLEAS) sell the insurance products of many different insurance companies
+most insurance companies use salaried sales representatives to handle their group insurance and group annuity sales
+a location-selling system uses wholesalers to promote an insurer's products to intermediarles and to provide those intermediaries with marketing support
+worksite marketing is a method of generating customer-initiated Sales from the inSurance cOmpany's website
+ChatGPT said:
+ChatGPT
+The correct statement is that most insurance companies use salaried sales representatives to handle their group insurance and group annuity sales.
+
+
+
+
+
+
+You said:
+4 of 20
+The following paragraph contains two pairs of terms enclosed in parentheses. Determine which term in each pair correctly completes the paragraph. Then select
+the answer choice containing the two terms you have chosen.
+When an insured disappears, the claimant is unable to present proof of the insured's death. If the insured's disappearance i explainable, such as when the
+insured is presumed to have died in a specific peril, a claim analyst most likely (will / will not) accept the claimant's statement and accident reports as proof of
+loss. If no specific peril can reasonably explain the disappearance, the claimant can petition the court for an order presuming the insured's death after a specified
+number of years. The insurer typically (requires / does not require) that the policy be kept in force during the period of disappearance.
+will / requires
+will / does not require
+will not / requires
+will not / does not require
+ChatGPT said:
+ChatGPT
+The correct answer is will / requires.
+
+
+
+
+
+
+You said:
+6 of 20
+TWo categories of independent insurance agents are personal producing general agents (PPGAS) and brokers. With regard to these types of independent agents,
+it generally is correct to say that
+both PPGAs and brokers sell more than one insurance company's products
+brokers typically are compensated more generously than are PPGAS
+brokers typically recelve significantly higher levels of support service from the insurance company's home office than do PPGAS
+insurance companies generally receive substantial amounts of business from each broker, but relatively little business from each PPGA
+ChatGPT said:
+ChatGPT
+The correct answer is both PPGAs and brokers sell more than one insurance company's products.
+
+
+
+
+
+
+You said:
+7 of 20
+The following paragraph contains two pairs of terms enclosed in parentheses. Determine which term in each pair correctly completes the paragraph. Then select
+the answer choice containing the two terms you have chosen.
+Many insurance companies use a numerical rating system to calculate a proposed insured's total mortality risk. Using this systerm, an underwriter starts with a
+base of 100 representing standard mortality. The underwriter then assigns a numerical value to each risk factor. The values assigned to factors that have been
+determined statistically to increase a person's mortality risk are (added to / subtracted from) the base value. Under the numerical rating system, the lower the
+total numerical rating, the (lower / higher) the mortality risk.
+added to / iower
+added to/ higher
+Subtracted from/iower
+subtracted from /higher
+ChatGPT said:
+ChatGPT
+The correct answer is added to / higher.
+
+
+
+
+
+
+You said:
+8 of 20
+Ross Kavulic was the policyowner of a life insurance policy covering his daughter, Ann. The policy named Ann's husband, Tom, as the primary beneficiary, and
+Ann's son, Brent, as the contingent beneficiary. No other beneficiaries were named. When Ann died, both Tom and Brent had predeceased her, but Ross was still
+Iiving. In this situation, the proceeds of the policy most likely were payable to
+Tom's estate
+Brent's estate
+O Ross, as the policyowner
+no one, because no named beneficiaries Survived the insured
+ChatGPT said:
+ChatGPT
+The correct answer is Ross, as the policyowner.
+
+
+
+
+
+
+You said:
+11 of 20
+Customer service representatives (CSRs) at the Henderson Insurance Company are polite, tactful, and attentive in their dealings with customers. CSRs are
+encouraged to address all customer requests in a timely manner; however, customer service managers do not specify what they mean by a "timely manner," an
+as a result, Henderson's CSRs tend to rush some calls, and not resolve every problem or inguiry to the customers' satisfaction. With regard to the characteristic
+of effective customer senvice, it is correct to say that Henderson's CSRS are
+COurteous, prompt and complete
+COurteous and prompt, but not complete
+cOurteous, but not prompt or complete
+O prompt, but not courteous or complete
+ChatGPT said:
+ChatGPT
+The correct answer is courteous and prompt, but not complete.
+
+
+
+
+
+
+You said:
+12 of 20
+Annette Llen applied for a life insurance policy from the Justice Insurance Company. Based on Ms. Lien's age and the amount of insurance for which she was
+applying, Justice required a physician to record the answers to Ms. Lien's medical history questions. Justice also required Ms. Lien to undergo a medical
+examination, and required the examining physician to include the results of the examination on the application. In this situation, the medical section of the
+application Justice used took the form of
+a nonmedical supplement
+a paramedical report
+an inspection report
+a medical report
+ChatGPT said:
+ChatGPT
+The correct answer is a medical report.
+
+
+
+
+
+
+You said:
+13 of 20
+A dlaim analyst received claims on the following insured individuals:
+• Rex Carter, a 70-year-old male who purchased his policy seven years ago, died of a heart attack after exercising at his gym.
+• Peggy Patrick, a 46-year-old female who purchased her policy four years ago, died of lung cancer after an extended illness.
+. Deanna Andres, a 35-year-old female, died of unknown causes while in a foreign country.
+• Ralph Dearborn, a 24-year-old male, committed suicide after the suicide exclusion period in his contract had expired.
+of these life insurance clalims, the one that will likely require the most extensive claim investigation is the claim on the life of
+O Mr. Carter
+O Ms. Patrick
+O Ms. Andres
+Mr. Dearborn
+ChatGPT said:
+ChatGPT
+The correct answer is Ms. Andres.
+
+
+
+
+
+
+You said:
+14 of 20
+A Customer whose life insurance policy lapsed for nonpayment of premium six months ago called her insurance company to request that the original policy be
+put back in force. In this situation, the transaction the customer is requesting is a policy
+Surrender
+O reinstatement
+replacement
+loan
+ChatGPT said:
+ChatGPT
+The correct answer is reinstatement.
+
+
+
+
+
+
+You said:
+15 of 20
+The Woodburn Insurance Company is introducing a new, complex annuity product. Woodburn understands that its target market for this product-wealthy,
+older individuals-responds well to ethical one-on-one sales tactics, and Woodburn is willing to incur higher channel costs in order to reach this market in a
+manner that offers Woodburn a high degree of control. Of the following distribution channels,
+a direct mail channel
+a career agent channe
+O an online sales channel
+an intermediary channel
+the one that would best serve Woodburn for this new annuity
+product is
+ChatGPT said:
+ChatGPT
+The distribution channel that would best serve Woodburn for this new annuity product is a career agent channel. This approach provides high control over the sales process and aligns with the preference for ethical one-on-one sales tactics targeting wealthy, older individuals.
+
+
+
+
+
+
+You said:
+16 of 20
+The underwriting departmernt of the Daily Insurance Company uses a type of software that automatically applies rules to available data. This software allows Daily
+to engage in exception-based underwriting for certain products. The system automatically accepts insurance applications that meet certain well-defined criteria,
+and refers to an underwriter any application that exceeds the defined limits. The type of software Daily uses to evaluate application data is
+an electronic application system
+O a factor table
+O an extra-percentage table
+a business rules engine (BRE)
+ChatGPT said:
+ChatGPT
+The type of software Daily Insurance Company uses to evaluate application data is a business rules engine (BRE). This software automates the application of underwriting rules and exceptions based on predefined criteria.
+
+
+
+
+
+
+You said:
+17 of 20
+Hal Adair contacted a customer service representative (CSR) at his insurance company and stated that he needed cash and wanted to surrender his lIfe
+insurance policy and recelve the net cash surrender value. The cSR explained that Mr. Adair could keep the policy in force and obtain a poliy loan instead. In this
+instance, the CSR İs attempting to engage in
+up-selling the policy
+cross-selling the policy
+conserving the policy
+exchanging the policy
+ChatGPT said:
+ChatGPT
+In this instance, the CSR is attempting to engage in conserving the policy. Conserving the policy involves persuading the policyholder to keep the policy in force rather than surrendering it.
+
+
+
+
+
+
+You said:
+18 of 20
+Although each insurance company sets Its own risk classes, some risk classes are typlcal. For example, the risk class to which most insurance companles assgn
+proposed insureds who represent an average level of risk is the
+O standard risk class
+O declined risk dass
+preferred risk class
+Substandard risk class
+ChatGPT said:
+ChatGPT
+The risk class to which most insurance companies assign proposed insureds who represent an average level of risk is the standard risk class.
+
+
+
+
+
+
+You said:
+19 of 20
+The Arbor Hill Insurance Company investigates certain life insurance claims to ensure proper payment of benefits. When investigating insurance claims, Arbor
+Hill's investigator typically must do all of the following EXCEPT
+O protect the confidentiality of information discovered in the course of the investigation
+follow privacy lawS as they relate to the claimant or the insured
+obtain information only by lawful, reasonable, and ethical means
+O conduct the investigation under a false pretext
+ChatGPT said:
+ChatGPT
+When investigating insurance claims, Arbor Hill's investigator typically must do all of the following EXCEPT conduct the investigation under a false pretext.
+
+
+
+On Dernand WorkMicrosoft Edge
+Novigate With Confidence
+LOMA 291 Module 1 Exam English
+7 of 10
+The Balance insurance Company classifles its functional areas as line functiöns orsupport functions. Functional areas that Balance dassies as line functions
+most likely include
+accounting
+Corporate communications
+compliance
+Customer service
+Next Question
+Assessnent progress:
+Sep 11, 2024, 16:08
+ChatGPT said:
+ChatGPT
+It seems like you're referring to a question from the LOMA 291 exam. Here's a breakdown that might help:
+
+Line functions in an insurance company typically involve roles that directly contribute to the company's core activities, like acquiring, underwriting, and servicing insurance products. Support functions, on the other hand, provide services that assist these core activities but don't directly generate revenue.
+
+For line functions, customer service is often considered one, as it directly impacts the customer experience, retention, and satisfaction, which are core to the business.
+
+Accounting, corporate communications, and compliance are more likely to be considered support functions, as they aid the business but don't engage directly with the core business of selling or managing insurance products.
+
+So, based on this, customer service is most likely the correct answer for a line function.
+
+
+
+
+
+
+You said:
+Just reply the answer next time
+ChatGPT said:
+ChatGPT
+Understood! The answer is customer service.
+
+
+
+
+
+8 of 10
+In a pyramid-shaped organizational structure, authiority is lstributed downware ro thetompany's board of directors to executives, middle managers, and
+supervisors. Strategic management functions are generally assigned to the company
+board of directors
+executives
+middle managers
+O supervisors
+Previous Question
+vivo V21
+Next Question
+Assessment progress:
+Sep 11, 2024, 16:09
+22042816C
+ChatGPT said:
+ChatGPT
+The answer is executives.
+
+
+
+
+Navigate With Confidence
+LOMA 291 Module 1 Exam English
+9 of 10
+0.75%
+Work - Microsoft Edge
+The return an insurance company reaquires in order to pursue an investment is based on the investment's risk-free rate and its risk premium. if an inuestment
+offers a risk-free rate of 49% arnd the company expects to earn an additional 3% as compensation for accepting the risk, then the companys required return for
+the investment wOuld be equal to
+1.009%
+7.00%
+12.009%
+Assessment progress
+ChatGPT said:
+ChatGPT
+The answer is 7.00% (4% risk-free rate + 3% risk premium).
